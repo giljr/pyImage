@@ -41,7 +41,7 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_01](EX_01/) #PyVisionSeries - [**Jupyter-lab — Python — OpenCV**](https://medium.com/jungletronics/jupyter-lab-python-opencv-c55de86ec557) — Image Processing Exercises
 
-[#EX_02](EX_02/) #PyVisionSeries - [** OpenCV — Image Basics **](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Another Round to Make Sure that Python is Really Amazing!
+[#EX_02](EX_02/) #PyVisionSeries - [** OpenCV — Image Basics **](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Another Round to Make Sure that OpenCV+Python is Really Amazing!
 
 
 
