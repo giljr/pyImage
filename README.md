@@ -2,7 +2,8 @@
 
 Hi, this is all about [OpenCV](https://opencv.org/), easy like Python itself!
 
-Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+OpenCV-Python is a library of Python bindings designed to solve computer vision problems. Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, 
+Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
 In this repository I will offer all my files while I learn OpenCV from scratch through self-study, mainly using Jupyter Notebook :notebook_with_decorative_cover:
 
