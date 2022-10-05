@@ -5,6 +5,8 @@ Hi, this is all about [OpenCV](https://opencv.org/), easy like Python itself!
 OpenCV-Python is a library of Python bindings designed to solve computer vision problems. Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, 
 Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
+OpenCV + Python is Really Amazing!
+
 In this repository I will offer all my files while I learn OpenCV from scratch through self-study, mainly using Jupyter Notebook :notebook_with_decorative_cover:
 
 ```
@@ -37,11 +39,11 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#EX_00](EX_00/) #PyVisionSeries - [** Hi Python Computer Vision — PIL!**](https://medium.com/jungletronics/hi-python-computer-vision-pil-786a1da7b2d4) — An Intro To Python Imaging Library
+[#EX_00](EX_00/) #PyVisionSeries - [**Hi Python Computer Vision — PIL!**](https://medium.com/jungletronics/hi-python-computer-vision-pil-786a1da7b2d4) — An Intro To Python Imaging Library
 
 [#EX_01](EX_01/) #PyVisionSeries - [**Jupyter-lab — Python — OpenCV**](https://medium.com/jungletronics/jupyter-lab-python-opencv-c55de86ec557) — Image Processing Exercises
 
-[#EX_02](EX_02/) #PyVisionSeries - [** OpenCV — Image Basics **](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Another Round to Make Sure that OpenCV+Python is Really Amazing!
+[#EX_02](EX_02/) #PyVisionSeries - [**OpenCV — Image Basics**](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Create Image From Scratch
 
 
 

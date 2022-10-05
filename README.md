@@ -10,16 +10,22 @@ OpenCV + Python is Really Amazing!
 In this repository I will offer all my files while I learn OpenCV from scratch through self-study, mainly using Jupyter Notebook :notebook_with_decorative_cover:
 
 ```
-Why Jupyter?
+What is Python OpenCV? 
 
-Jupyter is a free,
-open-source,
-interactive web tool
-known as a computational notebook,
-which researchers can use to combine
-software code, computational output,
-explanatory text and multimedia resources
-in a single document.
+OpenCV-Python is a library of Python 
+bindings designed to solve 
+computer vision problems. 
+
+Is OpenCV a framework?
+
+Yes, 
+is a computer vision framework 
+that helps you do all sorts of 
+processing on images and videos. 
+Since its release, it's been 
+a widely used tool for 
+image processing tasks.
+
 it's just amazing!
 ```
 
