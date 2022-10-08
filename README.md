@@ -55,6 +55,11 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_04](EX_04/) #PyVisionSeries - [**OpenCV — Histogram Equalization**](https://medium.com/jungletronics/histogram-equalization-34149fc299a6) — How To Equalize Histograms Of Images
 
+[#EX_05](EX_05/) #PyVisionSeries - [**OpenCV — Resize an Image**](https://medium.com/jungletronics/opencv-resize-an-image-54df7680e828) — How To Resize Without Distortion
+
+[#EX_06](YOLO/) #PyVisionSeries - [**YOLO - You only look once**](https://pjreddie.com/darknet/yolo/) — Real-Time Object Detection
+
+[#EX_07](YOLO/) #PyVisionSeries - [**YOLO — Complete Project**]() — YOLO is a state-of-the-art, real-time object detection system
 
 
 ### License
