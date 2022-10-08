@@ -45,11 +45,15 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#EX_00](EX_00/) #PyVisionSeries - [**Hi Python Computer Vision — PIL!**](https://medium.com/jungletronics/hi-python-computer-vision-pil-786a1da7b2d4) — An Intro To Python Imaging Library
+[#EX_00](EX_00/) #PyVisionSeries - [**PIL - Hi Python Computer Vision!**](https://medium.com/jungletronics/hi-python-computer-vision-pil-786a1da7b2d4) — An Intro To Python Imaging Library
 
-[#EX_01](EX_01/) #PyVisionSeries - [**Jupyter-lab — Python — OpenCV**](https://medium.com/jungletronics/jupyter-lab-python-opencv-c55de86ec557) — Image Processing Exercises
+[#EX_01](EX_01/) #PyVisionSeries - [**OpenCV - Jupyter-lab — Python**](https://medium.com/jungletronics/jupyter-lab-python-opencv-c55de86ec557) — Image Processing Exercises
 
 [#EX_02](EX_02/) #PyVisionSeries - [**OpenCV — Image Basics**](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Create Image From Scratch
+
+[#EX_03](EX_03/) #PyVisionSeries - [**OpenCV - Morphological Operations**](https://medium.com/jungletronics/opencv-morphological-operations-54f861eeb532) — (Morph_ops)HowTo Erode, Dilate, Edge_Detect w/Gradient
+
+[#EX_04](EX_04/) #PyVisionSeries - [**OpenCV — Histogram Equalization**](https://medium.com/jungletronics/histogram-equalization-34149fc299a6) — HowTo Equalize Histograms Of Images
 
 
 
