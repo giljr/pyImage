@@ -51,9 +51,9 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_02](EX_02/) #PyVisionSeries - [**OpenCV — Image Basics**](https://medium.com/jungletronics/opencv-image-basics-2e63d973851a) — Create Image From Scratch
 
-[#EX_03](EX_03/) #PyVisionSeries - [**OpenCV - Morphological Operations**](https://medium.com/jungletronics/opencv-morphological-operations-54f861eeb532) — (Morph_ops)HowTo Erode, Dilate, Edge_Detect w/Gradient
+[#EX_03](EX_03/) #PyVisionSeries - [**OpenCV - Morphological Operations**](https://medium.com/jungletronics/opencv-morphological-operations-54f861eeb532) — How To Erode, Dilate, Edge_Detect w/Gradient
 
-[#EX_04](EX_04/) #PyVisionSeries - [**OpenCV — Histogram Equalization**](https://medium.com/jungletronics/histogram-equalization-34149fc299a6) — HowTo Equalize Histograms Of Images
+[#EX_04](EX_04/) #PyVisionSeries - [**OpenCV — Histogram Equalization**](https://medium.com/jungletronics/histogram-equalization-34149fc299a6) — How To Equalize Histograms Of Images
 
 
 
