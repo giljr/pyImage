@@ -27,7 +27,7 @@ python demo.py
 
 It can be seen that yolo v3 has a better classification ability than yolo v2.
 
-<img width="400" height="400" src="/images/res/house_kitchen.jpg"/><img width="400" height="400" src="/images/res/spoon_knife.jpg"/>
+<img width="400" height="400" src="/YOLO/images/res/house_kitchen.jpg"/><img width="400" height="400" src="/YOLO/images/res/spoon_knife.jpg"/>
 
 ## TODO
 
