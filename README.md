@@ -61,7 +61,7 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_07](YOLO/) #PyVisionSeries - [**YOLO — Object Detection**](https://medium.com/jungletronics/yolo-object-detection-2828800fd2a2) — The State of the Art in Object Detection Framework
 
-[#EX_08](YOLO/) #PyVisionSeries - [**OpenCV — Object Detection**](https://medium.com/jungletronics/opencv-object-detection-7edf30c1fabf) — Viola–Jones Object Detection Framework
+[#EX_08](EX_08/) #PyVisionSeries - [**OpenCV — Object Detection**](https://medium.com/jungletronics/opencv-object-detection-7edf30c1fabf) — Viola–Jones Object Detection Framework
 
 
 ### License
